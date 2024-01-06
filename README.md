@@ -1,8 +1,13 @@
-# Data Analyst
+# Michael's Programming and Analytics Portfolio
 
-### Education
+## Project Samples
+### [Project 1: Automated Google Calendar Scheduler](https://github.com/michaelfred533/automated_google_calendar_scheduling)
 
-### Work Experience
+### [Project: Google Data Analytics Certificate Capstone] (https://github.com/michaelfred533/google_analytics_capstone)
 
 
-### Project Samples
+## Education
+
+## Work Experience
+
+
